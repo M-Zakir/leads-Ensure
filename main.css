@@ -139,10 +139,10 @@ img.profile-pic {
 }
 
 .bg-color-white {
-	background-color: blue;
+	background-color: white;
 }
 
-.text-name {
+.text-name
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #333333;
