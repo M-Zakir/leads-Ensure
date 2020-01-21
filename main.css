@@ -144,21 +144,21 @@ img.profile-pic {
     font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: #333333;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 .text-title-company {
     font-family: 'Lato', sans-serif;
-    font-weight: 20000;
+    font-weight: 200;
     color: #333333;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 .text-detail {
     font-family: 'Lato', sans-serif;
-    font-weight: 300;
+    font-weight: 200;
     color: #575757;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 .bottom {
